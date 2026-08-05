@@ -2,7 +2,7 @@
 
 > *A collection of activities, outputs, and learning resources for Cloud Computing.*
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository serves as my organized workspace for all course requirements, including:
 
@@ -13,12 +13,12 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 👤 Student Information
 
-- **Name:** Jasper Aspiras
+- **Name:** ASPIRAS, JASPER  
 - **Course/Section:** BSIT III-K
-- **Instructor:** ___________________
+- **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 cloud-computing-course/
@@ -29,7 +29,7 @@ cloud-computing-course/
 └── README.md
 ```
 
-## 📖 Key Concepts Covered
+##  Key Concepts Covered
 
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
@@ -37,6 +37,6 @@ cloud-computing-course/
 - Version Control with Git & GitHub
 - Cloud Infrastructure Management
 
-## 🎯 Course Objectives
+##  Course Objectives
 
 This repository documents my learning progress throughout the Cloud Computing course by organizing activities, notes, projects, and reflections using GitHub and Git version control.
