@@ -11,7 +11,7 @@ This repository serves as my organized workspace for all course requirements, in
 - Mini-projects
 - Reflection papers
 
-## 👤 Student Information
+##  Student Information
 
 - **Name:** ASPIRAS, JASPER  
 - **Course/Section:** BSIT III-K
